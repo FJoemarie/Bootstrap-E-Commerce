@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../ContactFrom_v12/fonts/montserrat/Montserrat-Regular.ttf); 
+  }
+a{
+    height: 100%;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 1.7;
+}
+#footerEIndex{
+  margin-top: 1;
+}
+
+#main-carousel img{
+  width: 100%;
+  height: 750px;
+}
+.carousel-caption{
+  position: absolute;
+  top: 50%;
+  transform: translateY();
+}
+.carousel-caption h3{
+  font-size:400%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+}
+.carousel-caption p{
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom:1rem;
+}
+.checked{
+  color:red;
+}
+#cards{
+  margin-right: 8px;
+}
+#footerEIndex{
+  margin-top: 50px;
+  
+}
+#View-More{
+  padding-top: 7px;
+}
+#footer{
+  background-color:rgba(0, 0, 0, 0.445);
+  color:black;
+}
+#para{
+  line-height: 2;
+}
+#login{
+  padding-top: 50px;
+  padding-left: 150px;
+}
+#send{
+  margin-bottom: 250px;
+}
+#logo{
+  margin-bottom: 100px;
+}
+.form-background{
+  background-color: rgba(0, 0, 0, 0.651);
+  color: antiquewhite;
+  margin-top: 5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.f-background{
+  background-color: black;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.button-submit{
+  margin-left: 200px;
+}
